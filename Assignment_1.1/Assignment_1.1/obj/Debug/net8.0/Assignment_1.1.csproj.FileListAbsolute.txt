@@ -1,0 +1,14 @@
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/bin/Debug/net8.0/Assignment_1.1
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/bin/Debug/net8.0/Assignment_1.1.deps.json
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/bin/Debug/net8.0/Assignment_1.1.runtimeconfig.json
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/bin/Debug/net8.0/Assignment_1.1.dll
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/bin/Debug/net8.0/Assignment_1.1.pdb
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/obj/Debug/net8.0/Assignment_1.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/obj/Debug/net8.0/Assignment_1.1.AssemblyInfoInputs.cache
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/obj/Debug/net8.0/Assignment_1.1.AssemblyInfo.cs
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/obj/Debug/net8.0/Assignment_1.1.csproj.CoreCompileInputs.cache
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/obj/Debug/net8.0/Assignment_1.1.dll
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/obj/Debug/net8.0/refint/Assignment_1.1.dll
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/obj/Debug/net8.0/Assignment_1.1.pdb
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/obj/Debug/net8.0/Assignment_1.1.genruntimeconfig.cache
+/Users/joaquintrinidad/Documents/Programming projects/C# projects/Assignment_1.1/Assignment_1.1/obj/Debug/net8.0/ref/Assignment_1.1.dll
